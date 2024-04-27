@@ -1,5 +1,2 @@
-como configura branches
-como sincronizar com o github\
-o que o programa tem que fazer mesmo?
-  - feito algumas funcões que retorna as infos pedidas mas não foram implementadas no app
-  - como fazer o app funcionar 
+Perguntas:
+  -
