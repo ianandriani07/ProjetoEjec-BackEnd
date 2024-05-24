@@ -14,7 +14,7 @@ def listarMembros(id):
     return membros
 
 @app.route("/novoMembro")
-def novoMembro(data_jason):
+def novoMembro(data_json):
     data_json = request.get_json()
     lista_atualizada = novoMembro(data_json)
     return jsonify(lista_atualizada)
